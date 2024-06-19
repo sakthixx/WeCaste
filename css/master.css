@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('../images/i3.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+}
+
+header h1 {
+    color: rgb(255, 255, 255);
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+
+header h2 {
+    color: #fff;
+    background-color: #497086;
+    padding: 10px;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+header p a {
+    color: #ffeb3b;
+    text-decoration: none;
+}
+
+.city-select {
+    margin: 20px 0;
+}
+
+.city-select label {
+    font-size: 1.2em;
+}
+
+.city-select select {
+    padding: 5px;
+    font-size: 1em;
+    margin-right: 10px;
+}
+
+.city-select button {
+    padding: 5px 10px;
+    font-size: 1em;
+    background-color: #0288d1;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.city-select button:hover {
+    background-color: #0277bd;
+}
+
+.forecast {
+    margin-top: 20px;
+}
+
+.day {
+    border: 1px solid #0288d1;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #999;
+}
