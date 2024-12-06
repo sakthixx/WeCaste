@@ -1,4 +1,4 @@
-_**WeCaste**_
+_**WeCast**_
 
 ![Screenshot 2024-12-06 170913](https://github.com/user-attachments/assets/b02d0471-d997-4182-9a22-4ef708e016b0)
 
